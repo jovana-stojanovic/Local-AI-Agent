@@ -73,16 +73,6 @@ Tell me the current time, multiply 18 by 7, and count the words in
 - Word count: 6
 ```
 
-## Project Structure
-
-```text
-ai-agent/
-│
-├── agent.py
-├── README.md
-└── ...
-```
-
 ## Requirements
 
 * Python 3.14+
